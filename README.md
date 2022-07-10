@@ -1,10 +1,9 @@
 # Morse_code_Translator
 
 Morse Code Translater converts string input into Morse Code output
+## Preview :
 
-## Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![initial screen](https://user-images.githubusercontent.com/63531921/178138762-c3fb5298-ba04-4e18-8b2b-330d2444a94f.png)
 
 ### Available Scripts
 
@@ -15,5 +14,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload when you make changes.
