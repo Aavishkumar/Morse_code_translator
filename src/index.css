@@ -1,0 +1,16 @@
+/* @import "~bootstrap/css/bootstrap"; */
+
+body {
+  margin: 0;
+  font-family: 'Nunito Sans', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+  background-image: linear-gradient(rgba(#000, 0.1), rgba(#000, 0.3));
+  background-color: aquamarine;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}

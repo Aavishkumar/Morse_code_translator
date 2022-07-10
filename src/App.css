@@ -1,0 +1,9 @@
+.wrapper {
+  padding: 5rem;
+  width: 50vw;
+}
+
+form {
+  width: 80%;
+  align-items: center;
+}
